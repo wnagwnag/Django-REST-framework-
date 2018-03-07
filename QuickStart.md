@@ -1,6 +1,6 @@
 我们将创建一个简单的API，以允许管理员用户查看和编辑的系统中的用户和组
 ### Projectsetup
-
+创建一个新的Django项目命名为`tutorial`, 然后开启一个新的应用起名为`quickstart`.
 ```
 # Create the project directory
 mkdir tutorial
